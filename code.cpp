@@ -1,7 +1,8 @@
 #include <iostream>
 using namespace std;
 
-int main() {
+int main()
+{
     int cost = 0;
     int t;
     cin >> t;
@@ -30,5 +31,5 @@ int main() {
         }
         cout << cost << endl;
     }
-	return 0;
+return 0;
 }
